@@ -1,0 +1,45 @@
+<html lang="es">
+ <head>
+    <title>Royer Daniel Sellerico Zapana</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width-device-width,initial-1.0">
+      <meta name="description" content="primera pagina web"
+       <meta name="description" content="trabajo usil"
+    </head>
+    <body>
+        <center><h1>Mi primera pagina web</h1></center>  
+        <body>
+            <center><br><img id="imagen-perseverancia" src="https://media.gettyimages.com/vectors/university-class-couple-vector-id908531748?s=612x612" width="280" height="280"</br></p></center>
+            </body> 
+            <body style="background-color: #8a320a;"></body>
+            <center><p>Me presento mi nombre es Royer Daniel Sellerico Zapana tengo 17 años soy de puno
+             gracias al apoyo de mis padres podre estudiar en lima en la Universidad San Ignacio De loyola
+            en donde escogi la carrera de sistemas e informatica y me siento contento de este gran paso
+             que estoy dando en esta vida universitaria y no defraudare a mis seres queridos. 
+            </p></center>
+            <p>Los cursos que llevo actualmente son:</p>
+            <ul>
+                <li>desarrollo humano</li>
+                <li>nivelacion en matematicas</li>
+                <li>nivelacion en lenguaje</li>
+                <li>nivelacion en ingles</li>
+                <li>introducion a dibujo tecnico</li>
+                <li>introducion a sistemas</li>
+                <ul>
+            <p>Mis deportes favoritos son:</p>
+            <li>futbol</li>
+            <body>
+            <br><img id="imagen-perseverancia" src="https://static1.abc.es/media/bienestar/2019/09/17/futbol-1-kU3C--620x349@abc.jpg" width="200" height="180"</br></p>
+            <li>básquet</li>
+            <br><img id="imagen-perseverancia" src="https://vivabasquet.com/wp-content/uploads/2017/12/Mineros1Destacada.jpg" width="200" height="180"</br></p>
+            </body> 
+            <p>Uno de mis juegos favoritos es dota 2 siempre quise ser pro player
+              un sueño que aun tengo y que me gustaria a un equipo peruano y dejar el nombre de peru en alto </p>
+              <body>
+                <br><img id="imagen-perseverancia" src="https://f.rpp-noticias.io/2019/08/21/what-is-this-game-twitch-830838mp4_830839.png" width="850" height="500"</br></p>
+             </body>
+            <center><p>En fin eso es mi vida agradesco a los que lean y darles un gracias</p></center>
+            <center>trabajo de crear una pagina web</center>
+            <center>puno-2021</center>
+            <body>
+            <html>
